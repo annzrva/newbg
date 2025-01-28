@@ -1,0 +1,17 @@
+/product-background-editor
+├── /app
+│   ├── /api
+│   │   └── uploadthing
+│   ├── /upload
+│   ├── /editor
+│   └── /preview
+├── /components
+│   ├── ui (shadcn components)
+│   ├── upload-zone.tsx
+│   └── background-selector.tsx
+├── /lib
+│   ├── uploadthing.ts
+│   └── utils.ts
+└── /public
+    └── /backgrounds
+        └── (20 background images)
